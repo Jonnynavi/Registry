@@ -23,7 +23,7 @@ function HomePage() {
   return (
     <div className="container py-12 space-y-8">
       <div className="space-y-6 text-center">
-        <h1 className="text-6xl fond-bold">The NPM Refistry</h1>
+        <h1 className="text-6xl fond-bold">The NPM Registry</h1>
         <p className="mx-auto max-w-[600px] text-gray-500">
         The Package manager for Javascript. Search and view packages.
         </p>  
